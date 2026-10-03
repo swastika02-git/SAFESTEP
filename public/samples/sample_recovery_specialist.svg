@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" width="400" height="320">
+  <rect width="400" height="320" rx="12" fill="#0A3323"/>
+  <rect width="400" height="50" rx="12" fill="#105666"/>
+  <circle cx="30" cy="25" r="16" fill="#D3968C"/>
+  <text x="30" y="30" fill="#0A3323" font-family="sans-serif" font-size="11" text-anchor="middle" font-weight="bold">REC</text>
+  <text x="56" y="24" fill="#F7F4D5" font-family="sans-serif" font-size="14" font-weight="bold">Cyber Recovery Legal Cell</text>
+  <text x="56" y="38" fill="#839958" font-family="sans-serif" font-size="10">+91 97110 44821 • Telegram / WhatsApp</text>
+  
+  <rect x="20" y="70" width="340" height="225" rx="12" fill="#105666" stroke="#D3968C" stroke-width="1.5"/>
+  <text x="35" y="95" fill="#D3968C" font-family="sans-serif" font-size="13" font-weight="bold">🛡️ LOSS RECOVERY NOTICE</text>
+  <text x="35" y="118" fill="#F7F4D5" font-family="sans-serif" font-size="12">Hello, we are senior fraud recovery specialists</text>
+  <text x="35" y="136" fill="#F7F4D5" font-family="sans-serif" font-size="12">investigating the <tspan fill="#839958" font-weight="bold">Apex Wealth</tspan> server breach.</text>
+  <text x="35" y="154" fill="#F7F4D5" font-family="sans-serif" font-size="12">We have traced your lost <tspan fill="#D3968C" font-weight="bold">₹38,500</tspan> in their gateway.</text>
+  
+  <rect x="35" y="168" width="310" height="65" rx="6" fill="#0A3323" stroke="#D3968C" stroke-width="1"/>
+  <text x="45" y="188" fill="#D3968C" font-family="sans-serif" font-size="11" font-weight="bold">RECOVERY CHARGE: ₹4,999 LEGAL FILING FEE</text>
+  <text x="45" y="206" fill="#F7F4D5" font-family="sans-serif" font-size="10">Pay fee today to unfreeze and credit ₹38,500 back.</text>
+  <text x="45" y="220" fill="#839958" font-family="sans-serif" font-size="10">Guaranteed 100% refund within 2 hours.</text>
+  
+  <text x="35" y="254" fill="#839958" font-family="sans-serif" font-size="11">UPI: legal.cyber.charge@paytm</text>
+  <text x="320" y="278" fill="#839958" font-family="sans-serif" font-size="9">03:15 PM ✓✓</text>
+</svg>
